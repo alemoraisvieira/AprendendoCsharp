@@ -1,0 +1,6 @@
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\3-CriandoVariavelFlutuante\bin\Debug\3-CriandoVariavelFlutuante.exe.config
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\3-CriandoVariavelFlutuante\bin\Debug\3-CriandoVariavelFlutuante.exe
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\3-CriandoVariavelFlutuante\bin\Debug\3-CriandoVariavelFlutuante.pdb
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\3-CriandoVariavelFlutuante\obj\Debug\3-CriandoVariavelFlutuante.csprojAssemblyReference.cache
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\3-CriandoVariavelFlutuante\obj\Debug\3-CriandoVariavelFlutuante.exe
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\3-CriandoVariavelFlutuante\obj\Debug\3-CriandoVariavelFlutuante.pdb

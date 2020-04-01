@@ -7,7 +7,7 @@
     <ProjectGuid>{A9C1F33F-9C68-4EDC-9357-68EA347ADE21}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_3_CriandoVariavelFlutuante</RootNamespace>
-    <AssemblyName>_3_CriandoVariavelFlutuante</AssemblyName>
+    <AssemblyName>3-CriandoVariavelFlutuante</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
