@@ -1,0 +1,6 @@
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
