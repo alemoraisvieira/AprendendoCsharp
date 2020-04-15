@@ -7,7 +7,7 @@
     <ProjectGuid>{BDAF8658-3520-49CD-AD57-19F6F0A66CD9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_8._2_Variavel_Booleana</RootNamespace>
-    <AssemblyName>_8._2_Variavel_Booleana</AssemblyName>
+    <AssemblyName>8.2-Variavel Booleana</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

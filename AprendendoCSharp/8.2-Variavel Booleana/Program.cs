@@ -15,7 +15,15 @@ namespace _8_Condicionais
             int IdadeJoao = 16;
             int QuantidadePessoas = 2;
 
-            if (IdadeJoao >= 18 || QuantidadePessoas >= 2)
+            //* OU
+            //*if (IdadeJoao >= 18 || QuantidadePessoas >= 2)
+
+            //* E
+            //if (IdadeJoao >= 18 && QuantidadePessoas >= 2)
+
+            bool acompanhado = QuantidadePessoas >= 2;
+
+            if (IdadeJoao >= 18 && acompanhado == true) 
             {
                 Console.WriteLine("João pode entrar");
             }
