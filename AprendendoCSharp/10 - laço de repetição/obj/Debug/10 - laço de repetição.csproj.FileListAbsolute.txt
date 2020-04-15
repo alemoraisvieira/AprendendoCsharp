@@ -1,0 +1,6 @@
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\10 - laço de repetição\bin\Debug\10 - laço de repetição.exe.config
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\10 - laço de repetição\bin\Debug\10 - laço de repetição.exe
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\10 - laço de repetição\bin\Debug\10 - laço de repetição.pdb
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\10 - laço de repetição\obj\Debug\10 - laço de repetição.csprojAssemblyReference.cache
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\10 - laço de repetição\obj\Debug\10 - laço de repetição.exe
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\10 - laço de repetição\obj\Debug\10 - laço de repetição.pdb
