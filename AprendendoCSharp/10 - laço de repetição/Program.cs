@@ -19,7 +19,7 @@ namespace _10___laço_de_repetição
 
                 //0.36% = 0.0036, pois dividimos por 100
                 valorInvestido = valorInvestido + valorInvestido * 0.0036;
-                Console.WriteLine("Após 1 mes vc terá " + valorInvestido);
+                Console.WriteLine("Após " + mes + " vc terá " + valorInvestido);
 
                 mes = mes +1;
             }
