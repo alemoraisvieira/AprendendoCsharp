@@ -1,0 +1,11 @@
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11-LacoRepeticaoFor.exe
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11-LacoRepeticaoFor.deps.json
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11-LacoRepeticaoFor.runtimeconfig.json
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11-LacoRepeticaoFor.runtimeconfig.dev.json
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11-LacoRepeticaoFor.dll
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11-LacoRepeticaoFor.pdb
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11-LacoRepeticaoFor.csprojAssemblyReference.cache
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11-LacoRepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11-LacoRepeticaoFor.AssemblyInfo.cs
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11-LacoRepeticaoFor.dll
+C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11-LacoRepeticaoFor.pdb
