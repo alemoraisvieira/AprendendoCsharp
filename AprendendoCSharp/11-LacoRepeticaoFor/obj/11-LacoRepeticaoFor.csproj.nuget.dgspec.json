@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aledm\\OneDrive\\Documentos\\GitHub\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\11-LacoRepeticaoFor.csproj": {}
+    "C:\\Users\\aledm\\source\\repos\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\11-LacoRepeticaoFor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aledm\\OneDrive\\Documentos\\GitHub\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\11-LacoRepeticaoFor.csproj": {
+    "C:\\Users\\aledm\\source\\repos\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\11-LacoRepeticaoFor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aledm\\OneDrive\\Documentos\\GitHub\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\11-LacoRepeticaoFor.csproj",
+        "projectUniqueName": "C:\\Users\\aledm\\source\\repos\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\11-LacoRepeticaoFor.csproj",
         "projectName": "11-LacoRepeticaoFor",
-        "projectPath": "C:\\Users\\aledm\\OneDrive\\Documentos\\GitHub\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\11-LacoRepeticaoFor.csproj",
+        "projectPath": "C:\\Users\\aledm\\source\\repos\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\11-LacoRepeticaoFor.csproj",
         "packagesPath": "C:\\Users\\aledm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aledm\\OneDrive\\Documentos\\GitHub\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\obj\\",
+        "outputPath": "C:\\Users\\aledm\\source\\repos\\AprendendoCsharp\\AprendendoCSharp\\11-LacoRepeticaoFor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aledm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

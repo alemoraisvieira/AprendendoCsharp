@@ -4,3 +4,10 @@ C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\8.2-
 C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\bin\Debug\8.2-Variavel Booleana.pdb
 C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\obj\Debug\8.2-Variavel Booleana.exe
 C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\obj\Debug\8.2-Variavel Booleana.pdb
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\bin\Debug\8.2-Variavel Booleana.exe.config
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\bin\Debug\8.2-Variavel Booleana.exe
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\bin\Debug\8.2-Variavel Booleana.pdb
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\obj\Debug\8.2-Variavel Booleana.csprojAssemblyReference.cache
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\obj\Debug\8.2-Variavel Booleana.csproj.CoreCompileInputs.cache
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\obj\Debug\8.2-Variavel Booleana.exe
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\8.2-Variavel Booleana\obj\Debug\8.2-Variavel Booleana.pdb

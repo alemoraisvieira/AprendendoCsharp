@@ -1,0 +1,13 @@
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11- Exercicio Pessoa.exe
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11- Exercicio Pessoa.deps.json
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11- Exercicio Pessoa.runtimeconfig.json
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11- Exercicio Pessoa.runtimeconfig.dev.json
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11- Exercicio Pessoa.dll
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\bin\Debug\netcoreapp3.1\11- Exercicio Pessoa.pdb
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11- Exercicio Pessoa.csprojAssemblyReference.cache
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11- Exercicio Pessoa.AssemblyInfoInputs.cache
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11- Exercicio Pessoa.AssemblyInfo.cs
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11- Exercicio Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11- Exercicio Pessoa.dll
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11- Exercicio Pessoa.pdb
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\11-LacoRepeticaoFor\obj\Debug\netcoreapp3.1\11- Exercicio Pessoa.genruntimeconfig.cache

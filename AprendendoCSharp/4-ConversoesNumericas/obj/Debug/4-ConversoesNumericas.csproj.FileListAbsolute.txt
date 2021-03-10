@@ -4,3 +4,10 @@ C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\4-Co
 C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\obj\Debug\4-ConversoesNumericas.csprojAssemblyReference.cache
 C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\obj\Debug\4-ConversoesNumericas.exe
 C:\Users\aledm\OneDrive\Documentos\GitHub\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\obj\Debug\4-ConversoesNumericas.pdb
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\bin\Debug\4-ConversoesNumericas.exe.config
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\bin\Debug\4-ConversoesNumericas.exe
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\bin\Debug\4-ConversoesNumericas.pdb
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\obj\Debug\4-ConversoesNumericas.csprojAssemblyReference.cache
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\obj\Debug\4-ConversoesNumericas.csproj.CoreCompileInputs.cache
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\obj\Debug\4-ConversoesNumericas.exe
+C:\Users\aledm\source\repos\AprendendoCsharp\AprendendoCSharp\4-ConversoesNumericas\obj\Debug\4-ConversoesNumericas.pdb

@@ -17,9 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2-Variavel Booleana", "8.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9- Escopo", "9- Escopo\9- Escopo.csproj", "{ED32D19A-4414-4F45-BCAC-CAAA30BA9F07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - laço de repetição", "10 - laço de repetição\10 - laço de repetição.csproj", "{EBAD392A-520C-4941-B9CB-AEB858C9E8C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 - Exercicios", "10 - laço de repetição\10 - Exercicios.csproj", "{EBAD392A-520C-4941-B9CB-AEB858C9E8C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-LacoRepeticaoFor", "11-LacoRepeticaoFor\11-LacoRepeticaoFor.csproj", "{D03D6A71-97B2-4587-80F5-01D79433886E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11- Exercicio Pessoa", "11-LacoRepeticaoFor\11- Exercicio Pessoa.csproj", "{D03D6A71-97B2-4587-80F5-01D79433886E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,20 +6,40 @@ namespace _11_LacoRepeticaoFor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pessoa p = new Pessoa();
+            
 
-            double valorInvestido = 1000;
+            Console.WriteLine("NOME: ");
+            p.Nome = Console.ReadLine();
 
-            for(int contadorMes = 1; contadorMes <= 12; contadorMes++)
+            Console.WriteLine("ALTURA: ");
+            string Alturafloat = Console.ReadLine();
+            float altura;
 
+            if (Single.TryParse(Alturafloat, out altura))
+                p.Altura = altura;
+            
+            DateTime data;
+
+            Console.WriteLine("data nascimento: ");
+            string calcIdade = Console.ReadLine();
+            Boolean resp = DateTime.TryParse(calcIdade, out data);
+            if (resp == false)
             {
-                valorInvestido = valorInvestido * 1.0036;
-                Console.WriteLine(
-                    "Após" + contadorMes +
-                    "meses, você terá R$" + valorInvestido
-                    );
+                Console.WriteLine("ERRO NA CONVERSAO");
             }
-            Console.ReadLine();
+            else
+            {
+                p.DataNascimento = data;
+            }
+
+            p.ImprimirDados();
+
+            int idade = p.CalcularIdade();
+
+            Console.WriteLine("Idade: " + idade);
+
+            Console.ReadKey();
         }
     }
 }
